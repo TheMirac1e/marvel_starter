@@ -4,6 +4,7 @@ import AppHeader from "../appHeader/AppHeader";
 import RandomChar from "../randomChar/RandomChar";
 import AppBanner from "../appBanner/AppBanner";
 import ComicsList from "../comicsList/ComicsList";
+import SingleComic from "../singleComic/SingleComic"
 import CharList from "../charList/CharList";
 import CharInfo from "../charInfo/CharInfo";
 import ErrorBoundary from "../errorBoundary/ErrorBoundary";
@@ -46,6 +47,10 @@ const App = () => {
                 <AppBanner />
                 <ComicsList />
               </>
+            } />
+          <Route path='/comics/:id'
+            element={
+              <SingleComic />
             } />
         </Routes>
       </main>
