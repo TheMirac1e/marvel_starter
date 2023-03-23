@@ -1,27 +1,19 @@
 {
   "files": {
-    "main.css": "/characters/static/css/main.a693496d.chunk.css",
-    "main.js": "/characters/static/js/main.a45d3e78.chunk.js",
-    "main.js.map": "/characters/static/js/main.a45d3e78.chunk.js.map",
-    "runtime-main.js": "/characters/static/js/runtime-main.0a2cd7cd.js",
-    "runtime-main.js.map": "/characters/static/js/runtime-main.0a2cd7cd.js.map",
-    "static/js/2.0e2424a2.chunk.js": "/characters/static/js/2.0e2424a2.chunk.js",
-    "static/js/2.0e2424a2.chunk.js.map": "/characters/static/js/2.0e2424a2.chunk.js.map",
+    "main.css": "/characters/static/css/main.a7a8ecd4.css",
+    "main.js": "/characters/static/js/main.a059ab33.js",
+    "static/media/x-men.png": "/characters/static/media/x-men.41b39e1944f148b7a123.png",
+    "static/media/vision.png": "/characters/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/mjolnir.png": "/characters/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/Avengers.png": "/characters/static/media/Avengers.4065c8f9c94e3d8b039a.png",
+    "static/media/error.gif": "/characters/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/Avengers_logo.png": "/characters/static/media/Avengers_logo.9eaf219344d83362e830.png",
     "index.html": "/characters/index.html",
-    "static/css/main.a693496d.chunk.css.map": "/characters/static/css/main.a693496d.chunk.css.map",
-    "static/js/2.0e2424a2.chunk.js.LICENSE.txt": "/characters/static/js/2.0e2424a2.chunk.js.LICENSE.txt",
-    "static/media/Avengers.4065c8f9.png": "/characters/static/media/Avengers.4065c8f9.png",
-    "static/media/Avengers_logo.9eaf2193.png": "/characters/static/media/Avengers_logo.9eaf2193.png",
-    "static/media/UW.422636b4.png": "/characters/static/media/UW.422636b4.png",
-    "static/media/error.42292aa1.gif": "/characters/static/media/error.42292aa1.gif",
-    "static/media/mjolnir.61f31e18.png": "/characters/static/media/mjolnir.61f31e18.png",
-    "static/media/vision.067d4ae1.png": "/characters/static/media/vision.067d4ae1.png",
-    "static/media/x-men.41b39e19.png": "/characters/static/media/x-men.41b39e19.png"
+    "main.a7a8ecd4.css.map": "/characters/static/css/main.a7a8ecd4.css.map",
+    "main.a059ab33.js.map": "/characters/static/js/main.a059ab33.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a2cd7cd.js",
-    "static/js/2.0e2424a2.chunk.js",
-    "static/css/main.a693496d.chunk.css",
-    "static/js/main.a45d3e78.chunk.js"
+    "static/css/main.a7a8ecd4.css",
+    "static/js/main.a059ab33.js"
   ]
 }
