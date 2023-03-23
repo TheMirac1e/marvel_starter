@@ -10,9 +10,9 @@ const AppHeader = () => {
             </h1>
             <nav className="app__menu">
                 <ul>
-                    <li><a href="#top">Characters</a></li>
+                    <li><a href="/characters">Characters</a></li>
                     /
-                    <li><a href="#top">Comics</a></li>
+                    <li><a href="/comics">Comics</a></li>
                 </ul>
             </nav>
         </header>
