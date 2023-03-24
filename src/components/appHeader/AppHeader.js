@@ -14,7 +14,7 @@ const AppHeader = () => {
             <nav className="app__menu">
                 <ul>
                     <li>
-                        <Link to="/characters" style={{ color: `${location.pathname === '/characters' ? '#9F0013' : 'black'}` }}>
+                        <Link to="/marvel_starter" style={{ color: `${location.pathname === '/marvel_starter' ? '#9F0013' : 'black'}` }}>
                             Characters
                         </Link>
                     </li>

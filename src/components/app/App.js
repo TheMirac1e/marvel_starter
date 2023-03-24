@@ -24,7 +24,7 @@ const App = () => {
       <AppHeader />
       <main>
         <Routes>
-          <Route path='/characters'
+          <Route path='/marvel_starter'
             element={
               <>
                 <ErrorBoundary>
