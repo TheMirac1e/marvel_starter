@@ -1,14 +1,10 @@
-import {Component} from "react";
+import { Component } from "react";
 import ErrorMessage from "../errorMessage/ErrorMessage";
 
 class ErrorBoundary extends Component {
   state = {
     error: false
   }
-
-  // static getDerivedStateFromError(error) { // юзается для того что бы только менять state
-  //   return {error: true}
-  // }
 
   componentDidCatch(error, errorInfo) {
     console.log(error, errorInfo);
@@ -19,7 +15,7 @@ class ErrorBoundary extends Component {
 
   render() {
     if (this.state.error) {
-      return <ErrorMessage/>
+      return <ErrorMessage />
     }
 
     return this.props.children;

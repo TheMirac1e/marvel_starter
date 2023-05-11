@@ -5236,6 +5236,7 @@ packages:
       find-cache-dir: 3.3.2
       fs-extra: 8.1.0
       globby: 6.1.0
+    dev: false
 
   /glob-parent/5.1.2:
     resolution: {integrity: sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==}
