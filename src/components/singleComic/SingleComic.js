@@ -4,7 +4,7 @@ import xMen from '../../resources/img/x-men.png';
 
 const SingleComic = () => {
     const params = useParams();
-    console.log(params.id);
+
     return (
         <div className="single-comic">
             <img src={xMen} alt="x-men" className="single-comic__img" />
